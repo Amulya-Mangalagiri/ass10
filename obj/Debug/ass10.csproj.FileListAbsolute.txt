@@ -1,0 +1,8 @@
+D:\day-5\ass10\ass10\bin\Debug\ass10.exe.config
+D:\day-5\ass10\ass10\bin\Debug\ass10.exe
+D:\day-5\ass10\ass10\bin\Debug\ass10.pdb
+D:\day-5\ass10\ass10\obj\Debug\ass10.csproj.AssemblyReference.cache
+D:\day-5\ass10\ass10\obj\Debug\ass10.csproj.SuggestedBindingRedirects.cache
+D:\day-5\ass10\ass10\obj\Debug\ass10.csproj.CoreCompileInputs.cache
+D:\day-5\ass10\ass10\obj\Debug\ass10.exe
+D:\day-5\ass10\ass10\obj\Debug\ass10.pdb
